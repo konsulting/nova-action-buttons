@@ -18,7 +18,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Konsulting\\ActionButtons\\": "src/"
+            "Konsulting\\NovaActionButtons\\": "src/"
         }
     },
     "extra": {

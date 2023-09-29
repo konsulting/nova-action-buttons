@@ -1,6 +1,6 @@
 <?php
 
-namespace Konsulting\ActionButtons;
+namespace Konsulting\NovaActionButtons;
 
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\ServiceProvider;
