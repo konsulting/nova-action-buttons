@@ -1,6 +1,6 @@
 <?php
 
-namespace Ape\ActionButtons;
+namespace Konsulting\ActionButtons;
 
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\ServiceProvider;

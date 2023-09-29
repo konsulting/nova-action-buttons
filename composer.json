@@ -18,13 +18,13 @@
     ],
     "autoload": {
         "psr-4": {
-            "Ape\\ActionButtons\\": "src/"
+            "Konsulting\\ActionButtons\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Ape\\ActionButtons\\ToolServiceProvider"
+                "Konsulting\\NovaActionButtons\\ToolServiceProvider"
             ]
         }
     },
