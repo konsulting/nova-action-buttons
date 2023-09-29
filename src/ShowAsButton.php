@@ -1,6 +1,6 @@
 <?php
 
-namespace Konsulting\ActionButtons;
+namespace Konsulting\NovaActionButtons;
 
 trait ShowAsButton
 {
