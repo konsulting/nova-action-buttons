@@ -15,7 +15,7 @@ For Nova 4
 
 For Nova 5
 ```
-    composer require konsulting/nova-action-buttons:^0.3
+    composer require konsulting/nova-action-buttons:^0.2
 ```
 
 To use, you will need to identify actions to be shown as a button. This will apply to Index Actions, Detail actions, Standalone and Inline Actions.
