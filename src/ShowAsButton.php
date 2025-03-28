@@ -10,4 +10,11 @@ trait ShowAsButton
 
         return $this;
     }
+
+    function hideIfCantRun(): static
+    {
+        $this->withMeta(['hideIfCantRun' => true]);
+
+        return $this;
+    }
 }
