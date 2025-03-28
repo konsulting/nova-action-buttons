@@ -8,8 +8,14 @@ We have used some other packages in the past, but as Nova evolves they have brok
 
 To install, simply:
 
+For Nova 4
 ```
     composer require konsulting/nova-action-buttons:^0.1
+```
+
+For Nova 5
+```
+    composer require konsulting/nova-action-buttons:^0.3
 ```
 
 To use, you will need to identify actions to be shown as a button. This will apply to Index Actions, Detail actions, Standalone and Inline Actions.
